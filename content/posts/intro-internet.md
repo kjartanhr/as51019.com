@@ -13,15 +13,15 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-Ever since I can remember I have always had some curiousity about the internet. It began with a desire to create websites. Then a desire to publish those websites. Then a desire to build apps out from those websites. And so on.
+Ever since I can remember I have always had some curiosity about the internet. It began with a desire to create websites. Then a desire to publish those websites. Then a desire to build apps out from those websites. And so on.
 
-Eventually I was deep into application development, having started with PHP, and eventually settling in the JavaScript/TypeScript ecosystem. Publishing (hosting) those applications is what led me to learning about Linux, networking, and a bunch of other "sysadmin-y" stuff. This is where a new curiousity formed: **how does the internet work?**
+Eventually I was deep into application development, having started with PHP, and eventually settling in the JavaScript/TypeScript ecosystem. Publishing (hosting) those applications is what led me to learning about Linux, networking, and a bunch of other "sysadmin-y" stuff. This is where a new curiosity formed: **how does the internet work?**
 
 # How does the internet work?
 
 Whenever I asked this question - online or in real life - I never felt satisfied with the answer. Sometimes I'd receive more information than other times, but never did it go any deeper than merely "the internet is like a series of tubes". This isn't incorrect, those "tubes" would be subsea and landline fibre routes, but it isn't very helpful either. Someone who wants to dive deeper won't feel very satisfied, like how I wasn't, hearing the same information repeatedly. However, this is useful foundational knowledge.
 
-When people repeat this phrase "the internet is like a series of tubes" they are refering to, as I mentioned, the subsea and landline fibre routes that carry internet traffic between places. But it's more complicated than that.
+When people repeat this phrase "the internet is like a series of tubes" they are referring to, as I mentioned, the subsea and landline fibre routes that carry internet traffic between places. But it's more complicated than that.
 
 To develop an understanding of how this seemingly abstract network of cables forms the internet, it is best to scratch the idea of an "internet" at all. Rather, the internet is actually a bunch of smaller networks all connected together in one way or another. These are companies - big and small - ranging from large ISPs like France's Orange to tiny content networks like System36, ran by a friend of mine, back to large content networks like Google.
 
