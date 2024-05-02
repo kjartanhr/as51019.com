@@ -1,6 +1,6 @@
 # Shamelessly stolen from $employer
 
-Sitemap: https://essential.gg/sitemap.xml
+Sitemap: https://as51019.com/sitemap.xml
 
 # Allowed cralwers:
 
