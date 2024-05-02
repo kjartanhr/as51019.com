@@ -1,7 +1,6 @@
 .footer {
   display: flex;
   align-items: flex-end;
-  flex-direction: column;
   gap: 20px;
   padding: 40px 0;
   flex-grow: 1;
@@ -18,11 +17,6 @@
     @media ($tablet) {
       flex-direction: column;
     }
-  }
-
-  &__logo {
-    max-width: 100px;
-    margin: 0 auto;
   }
 
   a {
