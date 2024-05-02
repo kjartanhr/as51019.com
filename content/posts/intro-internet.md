@@ -137,6 +137,8 @@ HOST: fenrir                                       Loss%   Snt   Last   Avg StDe
 # Other resources
 
 * [Explore the internet ecosystem](https://bgp.tools/)
+* ["Networking: IPv6" Discord server](https://discord.gg/ipv6)
+* ["the nettwork" Discord server](https://discord.gg/Q3tZVbJYXH)
 
 # Questions/comments
 
