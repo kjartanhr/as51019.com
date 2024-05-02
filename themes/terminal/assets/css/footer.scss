@@ -1,9 +1,10 @@
 .footer {
   display: flex;
   align-items: flex-end;
+  flex-direction: column;
+  gap: 20px;
   padding: 40px 0;
   flex-grow: 1;
-  opacity: .5;
 
   &__inner {
     display: flex;
@@ -12,10 +13,16 @@
     margin: 0;
     width: 760px;
     max-width: 100%;
+    opacity: .5;
 
     @media ($tablet) {
       flex-direction: column;
     }
+  }
+
+  &__logo {
+    max-width: 100px;
+    margin: 0 auto;
   }
 
   a {
