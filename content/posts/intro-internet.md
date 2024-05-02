@@ -27,7 +27,7 @@ To develop an understanding of how this seemingly abstract network of cables for
 
 These smaller networks are connected to each other via the fibre mentioned above. Sometimes they'll be directly connected together, usually because it saves money. Most of the time they'll be connected through another network called a "transit provider" or a "carrier". We call them that because traffic on their network isn't actually originating or terminating from or to them. Rather it's crossing ("transiting") their network.
 
-But ok... back to the question I had a kid... how does the internet *really* work? Like, how does my computer know the right cable to send packets through if I ping a Hetzner IP address???
+But ok... back to the question I had as a kid... how does the internet *really* work? Like, how does my computer know the right cable to send packets through if I ping a Hetzner IP address???
 
 # Routing
 
