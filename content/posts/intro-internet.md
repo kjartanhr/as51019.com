@@ -23,7 +23,7 @@ Whenever I asked this question - online or in real life - I never felt satisfied
 
 When people repeat this phrase "the internet is like a series of tubes" they are referring to, as I mentioned, the subsea and landline fibre routes that carry internet traffic between places. But it's more complicated than that.
 
-To develop an understanding of how this seemingly abstract network of cables forms the internet, it is best to scratch the idea of an "internet" at all. Rather, the internet is actually a bunch of smaller networks all connected together in one way or another. These are companies - big and small - ranging from large ISPs like France's Orange to tiny content networks like System36, ran by a friend of mine, back to large content networks like Google.
+To develop an understanding of how this seemingly abstract network of cables forms the internet, it is best to scratch the idea of an "internet" at all. Rather, the internet is actually a bunch of smaller networks all connected together in one way or another. These are companies - big and small - ranging from large ISPs like France's Orange to tiny content networks like Panascais back to large content networks like Google.
 
 These smaller networks are connected to each other via the fibre mentioned above. Sometimes they'll be directly connected together, usually because it saves money. Most of the time they'll be connected through another network called a "transit provider" or a "carrier". We call them that because traffic on their network isn't actually originating or terminating from or to them. Rather it's crossing ("transiting") their network.
 
