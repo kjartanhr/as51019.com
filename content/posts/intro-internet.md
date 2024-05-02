@@ -134,6 +134,10 @@ HOST: fenrir                                       Loss%   Snt   Last   Avg StDe
 * [IP routing](https://en.wikipedia.org/wiki/IP_routing)
 * [Tier 1 networks](https://en.wikipedia.org/wiki/Tier_1_network)
 
+# Other resources
+
+* [Explore the internet ecosystem](https://bgp.tools/)
+
 # Questions/comments
 
 If you'd like to ask me something - perhaps inquiries related to the post rather than tech support on BGP etc. ;) - or have a comment I'd be happy chat via [kjartann@kjartann.is](mailto:kjartann@kjartann.is).
