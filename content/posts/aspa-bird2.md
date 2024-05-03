@@ -98,7 +98,7 @@ Using these two conditions we can quite easily create a functional, but rather s
 
 The pseudocode looks a little like this:
 
-```
+```java
 boolean is aspa valid() {
     if (asa publisher asn in path) {
         if (provider1 asn before asa publisher asn in path) return true;
@@ -185,3 +185,9 @@ If you'd like to do this for yourself I'd like to reiterate that ASPA is an incr
 
 * [rpki-client console](https://console.rpki-client.org/)
 * [Routinator](https://routinator.docs.nlnetlabs.nl/en/stable/)
+
+# Questions/comments
+
+If you'd like to ask me something or have a comment I'd be happy chat via [kjartann@kjartann.is](mailto:kjartann@kjartann.is).
+
+<img src="/owiehappy.gif" alt=":owiehappy: emoji" width="48" />
