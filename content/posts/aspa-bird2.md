@@ -21,7 +21,7 @@ I thought it might be fun to explore if we could achieve the same thing, only wi
 
 # rpki-client
 
-Initially my intuition for this was to use `rpki-client` as I had seen this tool used by Job Snjiders and other big names in the "routing security space".
+Initially my intuition for this was to use `rpki-client` as I had seen this tool used by Job Snijders and other big names in the "routing security space".
 
 The maintainers of `rpki-client` also happened to publish [a website](https://console.rpki-client.org/) showing dumps given by `rpki-client` at certain intervals in a web-accessible form. [There even is an ASPA page!](https://console.rpki-client.org/aspa.html). Cool!
 
