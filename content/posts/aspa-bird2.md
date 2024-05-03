@@ -140,7 +140,7 @@ for (const {customer, providers} of aspas) {
 
 There are a few more lines of boilerplate but you get the gist. The resulting function definition you get from running the program looks a little like this:
 
-```
+```rust
 function is_aspa_valid () {
    # does the AS path include AS945?
    if (bgp_path ~ [= * 945 * =]) then {
