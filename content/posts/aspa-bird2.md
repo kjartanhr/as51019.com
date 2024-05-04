@@ -44,7 +44,7 @@ apt install build-essential
 # install rust (please dont pipe to bash in production)
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-# add cargo to $PATH (not the period, it's important)
+# add cargo to $PATH (note the period, it's important)
 . "$HOME/.cargo/env"
 
 # build routinator with aspa
