@@ -154,6 +154,7 @@ function is_aspa_valid () {
        if (bgp_path ~ [= * 7922 945 * =]) then return true;
        if (bgp_path ~ [= * 9002 945 * =]) then return true;
        if (bgp_path ~ [= * 32097 945 * =]) then return true;
+
        return false;
    }
    ...
