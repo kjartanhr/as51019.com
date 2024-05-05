@@ -35,7 +35,7 @@ When I was doing this I happened to be in a call in the [Network: IPv6 Discord](
 
 To do this we have to follow [Routinator's guide for compiling from source](https://routinator.docs.nlnetlabs.nl/en/stable/building.html). This is so we can build the software with the feature flag that enables ASPA.
 
-Luckily this is pretty simple and boils down to running the correct command aftering installing rust on your system:
+Luckily this is pretty simple and boils down to running the correct command after installing rust on your system:
 
 ```bash
 # some build tools
