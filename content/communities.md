@@ -17,6 +17,7 @@ author = "Kjartan Hrafnkelsson"
 | 51019, x02  | Learnt from customer in PoP             |
 | 51019, x03  | Learnt over peering in PoP              |
 | 51019, x04  | Learnt from another "backbone" location |
+| 51019, x05  | Internal-only route                     |
 
 x = location ID.
 
@@ -24,9 +25,9 @@ x = location ID.
 
 |  Community  | Description                           |
 |-------------|---------------------------------------|
-| 51019, 005  | Learnt over LocIX Frankfurt IX fabric |
-| 51019, 006  | Learnt over FogIXP IX fabric          |
-| 51019, 007  | Learnt over NL-ix IX fabric           |
+| 51019, 006  | Learnt over LocIX Frankfurt IX fabric |
+| 51019, 007  | Learnt over FogIXP IX fabric          |
+| 51019, 008  | Learnt over NL-ix IX fabric           |
 
 x = 0
 
@@ -34,7 +35,7 @@ x = 0
 
 |  Community  | Description                    |
 |-------------|--------------------------------|
-| 51019, 105  | Learnt over Grunn-IX IX fabric |
+| 51019, 106  | Learnt over Grunn-IX IX fabric |
 
 x = 1
 
@@ -42,7 +43,7 @@ x = 1
 
 |  Community  | Description                |
 |-------------|----------------------------|
-| 51019, 205  | Learnt over ONIX IX fabric |
+| 51019, 206  | Learnt over ONIX IX fabric |
 
 x = 2
 
@@ -50,7 +51,7 @@ x = 2
 
 |  Community  | Description                 |
 |-------------|-----------------------------|
-| 51019, 305  | Learnt over LONAP IX fabric |
+| 51019, 306  | Learnt over LONAP IX fabric |
 
 x = 3
 
@@ -58,7 +59,7 @@ x = 3
 
 |  Community  | Description                  |
 |-------------|------------------------------|
-| 51019, 405  | Learnt over FREMIX IX fabric |
+| 51019, 406  | Learnt over FREMIX IX fabric |
 
 x = 4
 
@@ -66,7 +67,7 @@ x = 4
 
 |  Community  | Description                 |
 |-------------|-----------------------------|
-| 51019, 505  | Learnt over REMIX IX fabric |
+| 51019, 506  | Learnt over REMIX IX fabric |
 
 x = 5
 
