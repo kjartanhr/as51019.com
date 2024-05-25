@@ -58,7 +58,7 @@ x = 3
 
 |  Community  | Description                  |
 |-------------|------------------------------|
-| 51019, 505  | Learnt over FREMIX IX fabric |
+| 51019, 405  | Learnt over FREMIX IX fabric |
 
 x = 4
 
@@ -66,6 +66,13 @@ x = 4
 
 |  Community  | Description                 |
 |-------------|-----------------------------|
-| 51019, 605  | Learnt over REMIX IX fabric |
+| 51019, 505  | Learnt over REMIX IX fabric |
 
 x = 5
+
+# Informational BGP communities tagged in Coventry 🇬🇧
+
+|  Community  | Description                 |
+|-------------|-----------------------------|
+
+x = 6
