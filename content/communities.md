@@ -75,6 +75,6 @@ x = 5
 
 |  Community  | Description                 |
 |-------------|-----------------------------|
-| 51019, 609  | Do not export anywhere      |
+| 51019, 609  | Only redistribute to FIB    |
 
 x = 6
