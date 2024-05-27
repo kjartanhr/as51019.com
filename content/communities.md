@@ -77,4 +77,9 @@ x = 5
 |-------------|-----------------------------|
 | 51019, 609  | Only redistribute to FIB    |
 
-x = 6
+# Informational BGP communities tagged in Ashburn 🇺🇸
+
+|  Community  | Description                 |
+|-------------|-----------------------------|
+
+x = 7
