@@ -27,15 +27,15 @@
 160.202.134.7/32,IE,IE-D,Dublin, # dub-gw
 
 # frcdg0
-160.202.134.8/32,FR,FR-HDF,Sainghin-en-Mélantois,59262 # cdg-gw
+160.202.134.8/32,FR,FR-HDF,Sainghin-en-Melantois,59262 # cdg-gw
 
 # searl0
 160.202.134.9/32,SE,SE-AB,Kista,16440 # arl-gw
 
 # isrey0
-2001:67c:bdc:1a00::/56,IS,IS-RKV,Reykjavík,101 # isrey0 ipv6
-160.202.134.10/32,IS,IS-RKV,Reykjavík,101 # rvk-gw
-160.202.134.128/24,IS,IS-RKV,Reykjavík,101 # servers DMZ isrey0
+2001:67c:bdc:1a00::/56,IS,IS-RKV,Reykjavik,101 # isrey0 ipv6
+160.202.134.10/32,IS,IS-RKV,Reykjavik,101 # rvk-gw
+160.202.134.128/24,IS,IS-RKV,Reykjavik,101 # servers DMZ isrey0
 
 # isrey1
-160.202.134.144/24,IS,IS-RKV,Reykjavík,110 # Spaugur ehf. office DMZ isrey1
+160.202.134.144/24,IS,IS-RKV,Reykjavik,110 # Spaugur ehf. office DMZ isrey1
