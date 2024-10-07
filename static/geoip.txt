@@ -1,0 +1,13 @@
+# AS51019 published geo-IP information
+160.202.134.1/32,GB,GB-TWH,London,E16QR # lcy-gw
+160.202.134.2/32,DE,DE-HE,Frankfurt,60489 # fra-gw
+160.202.134.3/32,CA,CA-ON,Toronto,M5A0G7 # yyz-gw
+160.202.134.4/32,US,US-CA,Fremont,94539-7654 # sjc-gw
+160.202.134.5/32,US,US-VA,Ashburn,20147-6205 # iad-gw
+160.202.134.6/32,NL,NL-NH,Amsterdam,1098XG # ams-gw
+160.202.134.7/32,IE,IE-D,Dublin, # dub-gw
+160.202.134.8/32,FR,FR-HDF,Sainghin-en-Mélantois,59262 # cdg-gw
+160.202.134.9/32,SE,SE-AB,Kista,16440 # arl-gw
+160.202.134.10/32,IS,IS-RKV,Reykjavík,101 # rvk-gw
+160.202.134.128/24,IS,IS-RKV,Reykjavík,101 # servers DMZ isrey0
+160.202.134.144/24,IS,IS-RKV,Reykjavík,110 # Spaugur ehf. office DMZ isrey1
