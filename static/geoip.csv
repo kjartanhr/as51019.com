@@ -35,7 +35,7 @@
 # isrey0
 2001:67c:bdc:1a00::/56,IS,IS-RKV,Reykjavik,101 # isrey0 ipv6
 160.202.134.10/32,IS,IS-RKV,Reykjavik,101 # rvk-gw
-160.202.134.128/24,IS,IS-RKV,Reykjavik,101 # servers DMZ isrey0
+160.202.134.128/28,IS,IS-RKV,Reykjavik,101 # servers DMZ isrey0
 
 # isrey1
-160.202.134.144/24,IS,IS-RKV,Reykjavik,110 # Spaugur ehf. office DMZ isrey1
+160.202.134.144/28,IS,IS-RKV,Reykjavik,110 # Spaugur ehf. office DMZ isrey1
